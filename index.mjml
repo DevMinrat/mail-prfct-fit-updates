@@ -9,17 +9,149 @@
         <mj-image width="115px" src="assets/images/logo.png" alt="" />
       </mj-column>
     </mj-section>
-    <mj-section>
+    <mj-section padding="0">
       <mj-column>
         <mj-text
           align="center"
-          css-class="header-text"
           font-family="Inter, sans-serif"
           font-size="16px"
           line-height="19px"
           color="#515759"
         >
           Hi Sam! Here’s your weekly updates 👀️
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0 0 15px 0">
+      <mj-column>
+        <mj-image
+          width="560px"
+          src="assets/images/prfct-upd-img-1.png"
+          alt=""
+        />
+        <mj-text
+          font-family="Inter, sans-serif"
+          font-weight="600"
+          font-size="24px"
+          line-height="22px"
+          color="#0C1014"
+        >
+          Here Are the Best Sneakers of 2021
+          <img
+            style="vertical-align: bottom"
+            width="64px"
+            src="assets/images/new.png"
+            alt=""
+          />
+        </mj-text>
+        <mj-text
+          font-family="Inter, sans-serif"
+          font-size="16px"
+          line-height="22px"
+          color="#515759"
+        >
+          We’re still quite early into the year, but it’s never too soon to
+          highlight our picks for the best sneakers of the year, so far.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="15px 0">
+      <mj-column>
+        <mj-image
+          width="560px"
+          src="assets/images/prfct-upd-img-2.png"
+          alt=""
+        />
+        <mj-text
+          font-family="Inter, sans-serif"
+          font-weight="600"
+          font-size="24px"
+          line-height="22px"
+          color="#0C1014"
+        >
+          8 Drops You Don't Want to Miss This Week
+        </mj-text>
+        <mj-text
+          font-family="Inter, sans-serif"
+          font-size="16px"
+          line-height="22px"
+          color="#515759"
+        >
+          Supreme Fall 2021 Collection Week 2, Palace Fall 2021 Collection Week
+          5, Travis Scott: Look Mum I Can Fly Customizable Merch and more.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="15px 0">
+      <mj-column>
+        <mj-image
+          width="560px"
+          src="assets/images/prfct-upd-img-1.png"
+          alt=""
+        />
+        <mj-text
+          font-family="Inter, sans-serif"
+          font-weight="600"
+          font-size="24px"
+          line-height="22px"
+          color="#0C1014"
+        >
+          We opened a store in Warsaw
+        </mj-text>
+        <mj-text
+          font-family="Inter, sans-serif"
+          font-size="16px"
+          line-height="22px"
+          color="#515759"
+        >
+          The store focuses on up-and-coming brands that are doing really
+          innovative and exciting things that may ruffle a few feathers while
+          setting the trends and inspiring today’s youth culture.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="20px 0 0">
+      <mj-column>
+        <mj-divider
+          border-width="1px"
+          border-style="solid"
+          border-color="#D6D7D9"
+        />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0 0 20px">
+      <mj-column>
+        <mj-text
+          font-family="Inter, sans-serif"
+          font-size="12px"
+          line-height="18px"
+          color="#949494"
+        >
+          This email was sent to you as a registered member of prfctfit.com. To
+          update your emails preferences
+          <a style="color: #1890ff; text-decoration: none" href="#"
+            >click here</a
+          >.Use of the service and website is subject to our
+          <a style="color: #1890ff; text-decoration: none" href="#"
+            >Terms of Use</a
+          >
+          and
+          <a style="color: #1890ff; text-decoration: none" href="#"
+            >Privacy Statement</a
+          >.
+        </mj-text>
+        <mj-text
+          font-family="Inter, sans-serif"
+          font-size="12px"
+          line-height="18px"
+          color="#949494"
+        >
+          © 2021 PRFCT FIT. All rights reserved
         </mj-text>
       </mj-column>
     </mj-section>

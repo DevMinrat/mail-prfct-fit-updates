@@ -1,0 +1,27 @@
+<mjml>
+  <mj-head>
+    <mj-title>Prfct Fit Updates</mj-title>
+    <mj-style inline="inline"> </mj-style>
+  </mj-head>
+  <mj-body background-color="#FAFAFA">
+    <mj-section>
+      <mj-column>
+        <mj-image width="115px" src="assets/images/logo.png" alt="" />
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text
+          align="center"
+          css-class="header-text"
+          font-family="Inter, sans-serif"
+          font-size="16px"
+          line-height="19px"
+          color="#515759"
+        >
+          Hi Sam! Here’s your weekly updates 👀️
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
